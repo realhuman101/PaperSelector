@@ -161,3 +161,8 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+# Do not accidentally commit
+viewed.json
+Full_Paper.pdf
+currentPage.pdf
